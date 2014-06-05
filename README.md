@@ -31,3 +31,9 @@ We can also use the addition(+) operator with strings, or string with numbers an
   var text2 = "On My Head";
   console.log(text + text2);
 ```
+Once we can need some quotations marks to be scaped, or even the backslash, we can use the characters need backlash. 
+
+```js
+  var text = "Raindrops Keep Falling \t ops";
+  var text = "Raindrops Keep Falling \" ops";
+```
