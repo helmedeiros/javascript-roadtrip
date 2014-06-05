@@ -24,7 +24,7 @@ Are the JavaScript way to handle, stores and process flat text. In order to sign
   var text = "Raindrops Keep Falling";
   console.log(text);
 ```
-We can also use the + operator with strings in a process called concatanation. Concatanation place strings together in one string.
+We can also use the addition(+) operator with strings, or string with numbers and expressions in a process called concatanation. Concatanation place strings together in one string.
 
 ```js
   var text = "Raindrops Keep Falling";
