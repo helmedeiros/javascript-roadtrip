@@ -21,5 +21,13 @@ As any other language JavaScript has arithmetic operators. They are, as you can 
 Are the JavaScript way to handle, stores and process flat text. In order to signal to JavaScript that we want to process some flat text, we normally use a pair of quotations mark surrounding some text.
 
 ```js
-  var text = "raindrops is best pony";
+  var text = "Raindrops Keep Falling";
+  console.log(text);
+```
+We can also use the + operator with strings in a process called concatanation. Concatanation place strings together in one string.
+
+```js
+  var text = "Raindrops Keep Falling";
+  var text2 = "On My Head";
+  console.log(text + text2);
 ```
