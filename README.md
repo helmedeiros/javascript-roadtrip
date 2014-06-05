@@ -15,3 +15,11 @@ As any other language JavaScript has arithmetic operators. They are, as you can 
 | *        |	Multiplication  |	3 * 2   |	6      |
 | /        |	Division        |	3 / 2   |	1.5    |
 | %        |	Modulus         |	3 % 2   |	1      |
+
+
+#### Strings
+Are the JavaScript way to handle, stores and process flat text. In order to signal to JavaScript that we want to process some flat text, we normally use a pair of quotations mark surrounding some text.
+
+```js
+  var text = "raindrops is best pony";
+```
