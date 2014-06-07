@@ -47,4 +47,10 @@ Sometimes is also important to compare two or more strings. For that, javascript
 | !=       | Different   | "a" != "a"   | false  |
 | !=       | Different   | "a" != "A"   | true   |
 
+The String object has some properties and methods that could be helpull sometimes.
+
+| Property | Description          | Example      | Result |
+| -------- | :------------------: | :----------: | -----: |
+| length   | return string length | "abc".length | 3      |
+
 
