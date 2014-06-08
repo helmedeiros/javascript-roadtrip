@@ -37,3 +37,20 @@ Once we can need some quotations marks to be scaped, or even the backslash, we c
   var text = "Raindrops Keep Falling \t ops";
   var text = "Raindrops Keep Falling \" ops";
 ```
+
+Sometimes is also important to compare two or more strings. For that, javascript allow us to do that, in different forms, using the equal(=) operator.
+
+| Operator | Description | Example      | Result |
+| -------- | :---------: | :----------: | -----: |
+| ==	   | Exact equal | "a" == "a"   | true   |
+| ==	   | Exact equal | "a" == "A"   | false  |
+| !=       | Different   | "a" != "a"   | false  |
+| !=       | Different   | "a" != "A"   | true   |
+
+The String object has some properties and methods that could be helpull sometimes.
+
+| Property | Description          | Example      | Result |
+| -------- | :------------------: | :----------: | -----: |
+| length   | return string length | "abc".length | 3      |
+
+
